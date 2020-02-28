@@ -4,6 +4,7 @@
     android:layout_height="250dp"
     android:padding="15dp"
     android:background="@drawable/mole_hole"
+    android:onClick="whacked"
     >
 
 </ImageView>
